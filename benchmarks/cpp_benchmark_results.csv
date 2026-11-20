@@ -1,0 +1,10 @@
+Metric,Value
+Requests,4449
+Hits,1551
+Misses,2898
+HitRatio,34.8618
+Evictions,467
+DirtyWritebacks,34
+PollutionShields,973
+PriorityShields,1017
+ExecutionTimeMs,6.1851
